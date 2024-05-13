@@ -1,0 +1,133 @@
+[02:03:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:03:26] [ServerMain/INFO]: Loaded 1175 recipes
+[02:03:26] [ServerMain/INFO]: Loaded 1276 advancements
+[02:03:27] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[02:03:27] [Server thread/INFO]: Loading properties
+[02:03:27] [Server thread/INFO]: Default game type: SURVIVAL
+[02:03:27] [Server thread/INFO]: Generating keypair
+[02:03:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:03:27] [Server thread/INFO]: Using epoll channel type
+[02:03:27] [Server thread/INFO]: Preparing level "world"
+[02:03:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:03:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:03:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:03:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:03:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:03:32] [Server thread/INFO]: Time elapsed: 2051 ms
+[02:03:32] [Server thread/INFO]: Done (5.445s)! For help, type "help"
+[02:05:14] [User Authenticator #1/INFO]: UUID of player VibrioidFlea is 696fd912-eacf-4b9d-ac3e-75fa9aabe530
+[02:05:15] [Server thread/INFO]: VibrioidFlea[/100.112.164.43:52650] logged in with entity id 66 at (-3.762499988079071, 71.0, -186.78270274325274)
+[02:05:15] [Server thread/INFO]: VibrioidFlea joined the game
+[02:10:05] [User Authenticator #2/INFO]: UUID of player Robotron25a is 0de320bb-b368-4b8b-acba-e1fc577bdedd
+[02:10:05] [Server thread/INFO]: Robotron25a[/100.112.155.83:64891] logged in with entity id 673 at (-26.55193265021998, 61.62177671697834, -167.8818094707491)
+[02:10:05] [Server thread/INFO]: Robotron25a joined the game
+[02:11:44] [Server thread/INFO]: Robotron25a has made the advancement [Fishy Business]
+[02:15:06] [Server thread/INFO]: Robotron25a has made the advancement [A Seedy Place]
+[02:16:03] [Server thread/INFO]: Robotron25a has made the advancement [Getting an Upgrade]
+[02:17:50] [Server thread/INFO]: Robotron25a has made the advancement [Stone Age]
+[02:22:58] [Server thread/INFO]: VibrioidFlea lost connection: Disconnected
+[02:22:58] [Server thread/INFO]: VibrioidFlea left the game
+[02:23:11] [User Authenticator #3/INFO]: UUID of player VibrioidFlea is 696fd912-eacf-4b9d-ac3e-75fa9aabe530
+[02:23:12] [Server thread/INFO]: VibrioidFlea[/100.112.164.43:35738] logged in with entity id 2496 at (-2.451155477609733, 71.0, -189.74714025761259)
+[02:23:12] [Server thread/INFO]: VibrioidFlea joined the game
+[02:24:29] [Server thread/INFO]: Robotron25a drowned
+[02:28:31] [Server thread/INFO]: VibrioidFlea was burned to a crisp while fighting Zombie
+[02:34:06] [Server thread/INFO]: Robotron25a has made the advancement [Acquire Hardware]
+[02:34:37] [Server thread/INFO]: Robotron25a has made the advancement [Isn't It Iron Pick]
+[02:41:00] [Server thread/INFO]: Robotron25a has made the advancement [Suit Up]
+[02:41:23] [Server thread/INFO]: Robotron25a has made the advancement [Monster Hunter]
+[02:43:02] [Server thread/INFO]: Robotron25a has made the advancement [Hot Stuff]
+[02:58:25] [Server thread/INFO]: VibrioidFlea lost connection: Disconnected
+[02:58:25] [Server thread/INFO]: VibrioidFlea left the game
+[02:58:46] [Server thread/INFO]: Robotron25a has made the advancement [Sweet Dreams]
+[02:58:56] [Server thread/INFO]: Robotron25a lost connection: Disconnected
+[02:58:56] [Server thread/INFO]: Robotron25a left the game
+[03:11:47] [User Authenticator #4/INFO]: UUID of player VibrioidFlea is 696fd912-eacf-4b9d-ac3e-75fa9aabe530
+[03:11:47] [Server thread/INFO]: VibrioidFlea[/100.112.164.43:58478] logged in with entity id 16349 at (-2157.6769743895975, 72.0, -417.7872845559537)
+[03:11:47] [Server thread/INFO]: VibrioidFlea joined the game
+[03:21:16] [User Authenticator #5/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[03:21:16] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:52592] logged in with entity id 17984 at (1.5, 72.0, -187.5)
+[03:21:16] [Server thread/INFO]: MR_Wizard7 joined the game
+[03:23:12] [Server thread/INFO]: VibrioidFlea was blown up by Creeper
+[03:23:14] [Server thread/WARN]: VibrioidFlea moved too quickly! 2157.4378101260686,23.0,259.85970093761364
+[03:24:41] [Server thread/INFO]: MR_Wizard7 has made the advancement [A Seedy Place]
+[03:24:58] [Server thread/INFO]: MR_Wizard7 has made the advancement [Stone Age]
+[03:25:23] [Server thread/INFO]: MR_Wizard7 has made the advancement [Getting an Upgrade]
+[03:25:44] [Server thread/INFO]: MR_Wizard7 has made the advancement [Acquire Hardware]
+[03:27:22] [Server thread/WARN]: Spruce Boat (vehicle of VibrioidFlea) moved wrongly! 0.25928972254006055
+[03:34:21] [Server thread/INFO]: MR_Wizard7 was slain by Zombie
+[03:34:24] [Server thread/WARN]: MR_Wizard7 moved too quickly! 1739.800000011921,18.0,94.96384048501238
+[03:38:13] [Server thread/INFO]: Villager cmm['Villager'/27902, l='ServerLevel[world]', x=-786.37, y=92.56, z=-270.72] died, message: 'Villager suffocated in a wall'
+[03:38:16] [Server thread/INFO]: Villager cmm['Villager'/27901, l='ServerLevel[world]', x=-786.72, y=96.00, z=-278.63] died, message: 'Villager suffocated in a wall'
+[03:50:35] [Server thread/INFO]: MR_Wizard7 has made the advancement [Sweet Dreams]
+[03:50:59] [Server thread/INFO]: VibrioidFlea has made the advancement [Sweet Dreams]
+[04:02:50] [Server thread/INFO]: MR_Wizard7 has made the advancement [Monster Hunter]
+[04:09:11] [User Authenticator #6/INFO]: UUID of player t_m0nster is 6d15fa28-3868-4b5f-93ce-89ea7ce94c7b
+[04:09:12] [Server thread/INFO]: t_m0nster[/100.117.119.60:55400] logged in with entity id 37520 at (-6.5, 72.0, -189.5)
+[04:09:12] [Server thread/INFO]: t_m0nster joined the game
+[04:10:15] [Server thread/INFO]: <t_m0nster> hey dagon
+[04:10:20] [Server thread/INFO]: <MR_Wizard7> -212,-308
+[04:12:02] [Server thread/INFO]: <MR_Wizard7> -2112
+[04:12:07] [Server thread/INFO]: <MR_Wizard7> -308
+[04:19:12] [Server thread/WARN]: Spruce Boat (vehicle of t_m0nster) moved wrongly! 0.4122324427919466
+[04:19:12] [Server thread/WARN]: Spruce Boat (vehicle of t_m0nster) moved wrongly! 0.2683801634627798
+[04:20:33] [Server thread/INFO]: t_m0nster lost connection: Disconnected
+[04:20:33] [Server thread/INFO]: t_m0nster left the game
+[04:20:43] [User Authenticator #7/INFO]: UUID of player t_m0nster is 6d15fa28-3868-4b5f-93ce-89ea7ce94c7b
+[04:20:44] [Server thread/INFO]: t_m0nster[/100.117.119.60:55519] logged in with entity id 45680 at (-1448.206799351272, 62.110764312744145, 97.72756379739353)
+[04:20:44] [Server thread/INFO]: t_m0nster joined the game
+[04:23:47] [Server thread/INFO]: <MR_Wizard7> -2112, -308
+[04:26:13] [Server thread/INFO]: VibrioidFlea has made the advancement [The Parrots and the Bats]
+[04:26:44] [Server thread/INFO]: t_m0nster drowned
+[04:28:00] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-2091, y=67, z=-300} iz{x=-2091, y=66, z=-301}
+[04:28:09] [Server thread/INFO]: t_m0nster lost connection: Disconnected
+[04:28:09] [Server thread/INFO]: t_m0nster left the game
+[04:53:43] [Server thread/INFO]: VibrioidFlea lost connection: Disconnected
+[04:53:43] [Server thread/INFO]: VibrioidFlea left the game
+[05:51:44] [Server thread/INFO]: MR_Wizard7 has made the advancement [Isn't It Iron Pick]
+[05:51:51] [Server thread/INFO]: MR_Wizard7 has made the advancement [Suit Up]
+[06:49:42] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[06:49:42] [Server thread/INFO]: MR_Wizard7 left the game
+[15:24:48] [User Authenticator #8/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[15:24:48] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:58427] logged in with entity id 76837 at (-2128.300000011921, 63.5625, -350.69999998807907)
+[15:24:48] [Server thread/INFO]: MR_Wizard7 joined the game
+[16:14:34] [Server thread/INFO]: MR_Wizard7 has made the advancement [Diamonds!]
+[16:37:33] [User Authenticator #9/INFO]: UUID of player VibrioidFlea is 696fd912-eacf-4b9d-ac3e-75fa9aabe530
+[16:37:34] [Server thread/INFO]: VibrioidFlea[/100.112.164.43:34994] logged in with entity id 88873 at (-2135.668792616719, 62.9375, -349.39379738162586)
+[16:37:34] [Server thread/INFO]: VibrioidFlea joined the game
+[16:37:54] [Server thread/INFO]: VibrioidFlea lost connection: Disconnected
+[16:37:54] [Server thread/INFO]: VibrioidFlea left the game
+[18:10:43] [Server thread/INFO]: MR_Wizard7 lost connection: Timed out
+[18:10:43] [Server thread/INFO]: MR_Wizard7 left the game
+[18:10:43] [Server thread/WARN]: handleDisconnection() called twice
+[18:10:50] [User Authenticator #10/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[18:10:51] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:59740] logged in with entity id 107967 at (-2131.826083380149, 63.0, -349.4252501564241)
+[18:10:51] [Server thread/INFO]: MR_Wizard7 joined the game
+[18:11:04] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[18:11:04] [Server thread/INFO]: MR_Wizard7 left the game
+[18:11:10] [Server thread/INFO]: MR_Wizard7 (/100.105.210.45:59770) lost connection: Disconnected
+[18:11:20] [Server thread/INFO]: MR_Wizard7 (/100.105.210.45:59778) lost connection: Disconnected
+[18:11:39] [User Authenticator #11/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[18:11:40] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:59821] logged in with entity id 108288 at (-2131.826083380149, 63.0, -349.4252501564241)
+[18:11:40] [Server thread/INFO]: MR_Wizard7 joined the game
+[18:25:46] [User Authenticator #12/INFO]: UUID of player VibrioidFlea is 696fd912-eacf-4b9d-ac3e-75fa9aabe530
+[18:25:46] [Server thread/INFO]: VibrioidFlea[/100.112.164.43:37204] logged in with entity id 111473 at (-2135.668792616719, 62.9375, -349.39379738162586)
+[18:25:46] [Server thread/INFO]: VibrioidFlea joined the game
+[19:02:15] [Server thread/INFO]: VibrioidFlea lost connection: Disconnected
+[19:02:15] [Server thread/INFO]: VibrioidFlea left the game
+[19:15:55] [Server thread/INFO]: MR_Wizard7 has made the advancement [Ice Bucket Challenge]
+[19:38:26] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[19:38:26] [Server thread/INFO]: MR_Wizard7 left the game
+[19:39:34] [User Authenticator #13/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[19:39:34] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:60550] logged in with entity id 131311 at (-2997.194337716216, 105.0, -294.9306099366175)
+[19:39:34] [Server thread/INFO]: MR_Wizard7 joined the game
+[19:46:33] [Server thread/INFO]: Villager cmm['Villager'/133108, l='ServerLevel[world]', x=-3257.59, y=57.96, z=-967.81] died, message: 'Villager was slain by Zombie'
+[19:47:13] [Server thread/INFO]: Villager cmm['Villager'/133109, l='ServerLevel[world]', x=-3246.30, y=59.05, z=-979.77] died, message: 'Villager was slain by Zombie'
+[20:14:18] [Server thread/INFO]: MR_Wizard7 has made the advancement [The Parrots and the Bats]
+[20:15:38] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[20:15:38] [Server thread/INFO]: MR_Wizard7 left the game
+[22:11:23] [User Authenticator #14/INFO]: UUID of player Wooderman12345 is 6307b935-9458-42c6-9618-7dc9e89d54cb
+[22:11:23] [Server thread/INFO]: Wooderman12345[/100.65.214.99:51251] logged in with entity id 145682 at (8.5, 72.0, -194.5)
+[22:11:23] [Server thread/INFO]: Wooderman12345 joined the game
+[22:11:59] [Server thread/INFO]: Wooderman12345 has made the advancement [Monster Hunter]
+[22:12:19] [Server thread/INFO]: Wooderman12345 has made the advancement [Stone Age]
