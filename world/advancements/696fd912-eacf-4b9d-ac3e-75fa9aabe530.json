@@ -624,6 +624,7 @@
       "bread": "2024-05-12 20:05:03 +0000",
       "cooked_chicken": "2024-05-16 06:44:32 +0000",
       "cooked_cod": "2024-05-12 08:07:37 +0000",
+      "sweet_berries": "2024-05-18 03:03:27 +0000",
       "cooked_beef": "2024-05-16 05:39:29 +0000",
       "baked_potato": "2024-05-14 01:36:36 +0000",
       "melon_slice": "2024-05-15 04:16:54 +0000",
@@ -2177,6 +2178,30 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-05-17 23:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-05-18 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-05-18 03:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-05-21 22:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-05-21 22:27:37 +0000"
     },
     "done": true
   },

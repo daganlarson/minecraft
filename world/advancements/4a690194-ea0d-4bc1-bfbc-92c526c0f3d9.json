@@ -7,27 +7,38 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:flower_forest": "2024-05-13 19:54:10 +0000",
-      "minecraft:beach": "2024-05-13 19:50:49 +0000",
+      "minecraft:cold_ocean": "2024-05-21 19:12:05 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-05-21 19:09:31 +0000",
       "minecraft:forest": "2024-05-13 15:53:47 +0000",
       "minecraft:taiga": "2024-05-13 03:31:12 +0000",
-      "minecraft:river": "2024-05-13 03:45:28 +0000",
-      "minecraft:stony_shore": "2024-05-13 03:23:23 +0000",
-      "minecraft:snowy_plains": "2024-05-13 03:21:17 +0000",
-      "minecraft:dripstone_caves": "2024-05-13 05:37:40 +0000",
-      "minecraft:snowy_taiga": "2024-05-13 03:38:45 +0000",
-      "minecraft:old_growth_birch_forest": "2024-05-13 20:03:28 +0000",
+      "minecraft:deep_ocean": "2024-05-21 19:22:05 +0000",
+      "minecraft:deep_cold_ocean": "2024-05-21 19:15:37 +0000",
       "minecraft:frozen_ocean": "2024-05-13 03:27:11 +0000",
+      "minecraft:desert": "2024-05-21 19:38:14 +0000",
       "minecraft:frozen_river": "2024-05-13 03:31:19 +0000",
       "minecraft:deep_frozen_ocean": "2024-05-13 03:27:29 +0000",
       "minecraft:ocean": "2024-05-13 19:55:15 +0000",
       "minecraft:cherry_grove": "2024-05-13 19:32:09 +0000",
       "minecraft:sunflower_plains": "2024-05-13 19:54:03 +0000",
+      "minecraft:birch_forest": "2024-05-21 20:48:50 +0000",
+      "minecraft:windswept_hills": "2024-05-13 19:19:32 +0000",
+      "minecraft:snowy_beach": "2024-05-13 03:24:22 +0000",
+      "minecraft:windswept_savanna": "2024-05-21 19:33:52 +0000",
+      "minecraft:warm_ocean": "2024-05-21 19:33:57 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-05-21 20:33:56 +0000",
+      "minecraft:flower_forest": "2024-05-13 19:54:10 +0000",
+      "minecraft:beach": "2024-05-13 19:50:49 +0000",
+      "minecraft:mangrove_swamp": "2024-05-21 20:18:12 +0000",
+      "minecraft:river": "2024-05-13 03:45:28 +0000",
+      "minecraft:lukewarm_ocean": "2024-05-21 19:32:19 +0000",
+      "minecraft:stony_shore": "2024-05-13 03:23:23 +0000",
+      "minecraft:snowy_plains": "2024-05-13 03:21:17 +0000",
+      "minecraft:dripstone_caves": "2024-05-13 05:37:40 +0000",
+      "minecraft:snowy_taiga": "2024-05-13 03:38:45 +0000",
+      "minecraft:old_growth_birch_forest": "2024-05-13 20:03:28 +0000",
       "minecraft:swamp": "2024-05-13 19:14:26 +0000",
       "minecraft:meadow": "2024-05-13 19:42:48 +0000",
       "minecraft:windswept_gravelly_hills": "2024-05-13 05:44:27 +0000",
-      "minecraft:windswept_hills": "2024-05-13 19:19:32 +0000",
-      "minecraft:snowy_beach": "2024-05-13 03:24:22 +0000",
       "minecraft:plains": "2024-05-13 03:45:19 +0000"
     },
     "done": false
@@ -885,6 +896,7 @@
       "minecraft:phantom": "2024-05-14 16:14:22 +0000",
       "minecraft:witch": "2024-05-16 23:47:24 +0000",
       "minecraft:wither_skeleton": "2024-05-14 03:57:11 +0000",
+      "minecraft:husk": "2024-05-21 19:39:05 +0000",
       "minecraft:ghast": "2024-05-14 04:04:29 +0000",
       "minecraft:hoglin": "2024-05-14 03:48:33 +0000",
       "minecraft:cave_spider": "2024-05-14 01:27:23 +0000",
@@ -3383,6 +3395,193 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-05-17 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-05-21 18:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-05-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-05-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-05-21 18:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-05-21 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-05-21 19:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-05-21 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-05-21 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-05-21 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-05-21 19:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-05-21 19:47:20 +0000",
+      "ocean_ruin_warm": "2024-05-21 19:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-05-21 19:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-05-21 19:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-05-21 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-05-21 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-05-21 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2024-05-21 20:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-05-21 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-05-21 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-05-21 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-05-21 20:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-22 13:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-22 13:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-22 13:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-05-22 13:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2024-05-22 13:44:20 +0000"
     },
     "done": true
   },
