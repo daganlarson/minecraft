@@ -37,6 +37,7 @@
       "minecraft:snowy_taiga": "2024-05-13 03:38:45 +0000",
       "minecraft:frozen_peaks": "2024-05-27 18:52:47 +0000",
       "minecraft:old_growth_birch_forest": "2024-05-13 20:03:28 +0000",
+      "minecraft:deep_dark": "2024-05-30 17:32:34 +0000",
       "minecraft:swamp": "2024-05-13 19:14:26 +0000",
       "minecraft:grove": "2024-05-27 18:47:37 +0000",
       "minecraft:meadow": "2024-05-13 19:42:48 +0000",
@@ -1930,7 +1931,8 @@
     "criteria": {
       "minecraft:cow": "2024-05-14 18:13:10 +0000",
       "minecraft:chicken": "2024-05-13 20:14:18 +0000",
-      "minecraft:sheep": "2024-05-14 18:14:49 +0000"
+      "minecraft:sheep": "2024-05-14 18:14:49 +0000",
+      "minecraft:sniffer": "2024-05-30 17:59:54 +0000"
     },
     "done": false
   },
@@ -3778,6 +3780,48 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-05-27 19:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2024-05-30 16:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-05-30 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-05-30 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-06-01 19:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-06-01 19:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-06-01 20:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-06-01 20:05:45 +0000"
     },
     "done": true
   },

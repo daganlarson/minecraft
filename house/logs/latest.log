@@ -1,5 +1,17 @@
-[15:11:16] [User Authenticator #27/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
-[15:11:16] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:62277] logged in with entity id 409576 at (-2128.367362016585, 63.5625, -348.4323090400987)
-[15:11:16] [Server thread/INFO]: MR_Wizard7 joined the game
-[15:44:07] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
-[15:44:07] [Server thread/INFO]: MR_Wizard7 left the game
+[19:27:12] [User Authenticator #35/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[19:27:13] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:54127] logged in with entity id 540461 at (-2128.483139577493, 63.5625, -348.30000001192093)
+[19:27:13] [Server thread/INFO]: MR_Wizard7 joined the game
+[19:34:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-2124, y=87, z=-225} iz{x=-2122, y=88, z=-225}
+[19:45:31] [Server thread/INFO]: MR_Wizard7 has made the advancement [Sneak 100]
+[20:17:08] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[20:17:08] [Server thread/INFO]: MR_Wizard7 left the game
+[20:51:59] [User Authenticator #36/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[20:52:00] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:54985] logged in with entity id 551347 at (-993.6710967731016, -44.0, -1638.4506060490085)
+[20:52:00] [Server thread/INFO]: MR_Wizard7 joined the game
+[20:52:19] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[20:52:19] [Server thread/INFO]: MR_Wizard7 left the game
+[20:53:27] [User Authenticator #37/INFO]: UUID of player MR_Wizard7 is 4a690194-ea0d-4bc1-bfbc-92c526c0f3d9
+[20:53:27] [Server thread/INFO]: MR_Wizard7[/100.105.210.45:55007] logged in with entity id 551555 at (-993.5908156056192, -44.0, -1638.237500011921)
+[20:53:27] [Server thread/INFO]: MR_Wizard7 joined the game
+[20:53:29] [Server thread/INFO]: MR_Wizard7 lost connection: Disconnected
+[20:53:29] [Server thread/INFO]: MR_Wizard7 left the game
